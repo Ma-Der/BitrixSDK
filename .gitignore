@@ -1,0 +1,17 @@
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+.env
+/node_modules
+
+.DS_Store
+*.pem
+
+# production
+/build
+
+docs.md
