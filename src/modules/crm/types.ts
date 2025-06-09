@@ -1,3 +1,5 @@
+export * from "./types/dealTypes";
+
 export interface BitrixResponse<T = any> {
     result: T;
     total?: number;
